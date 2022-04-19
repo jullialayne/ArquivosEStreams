@@ -1,3 +1,0 @@
-Está é a linha 1 do arquivo
-Está é a linha 2 do arquivo
-Está é a linha 3 do arquivo
