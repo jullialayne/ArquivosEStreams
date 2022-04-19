@@ -1,0 +1,15 @@
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\bin\Debug\net6.0\FilesStreams.exe
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\bin\Debug\net6.0\FilesStreams.deps.json
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\bin\Debug\net6.0\FilesStreams.runtimeconfig.json
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\bin\Debug\net6.0\FilesStreams.dll
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\bin\Debug\net6.0\FilesStreams.pdb
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\obj\Debug\net6.0\FilesStreams.csproj.AssemblyReference.cache
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\obj\Debug\net6.0\FilesStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\obj\Debug\net6.0\FilesStreams.AssemblyInfoInputs.cache
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\obj\Debug\net6.0\FilesStreams.AssemblyInfo.cs
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\obj\Debug\net6.0\FilesStreams.csproj.CoreCompileInputs.cache
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\obj\Debug\net6.0\FilesStreams.dll
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\obj\Debug\net6.0\refint\FilesStreams.dll
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\obj\Debug\net6.0\FilesStreams.pdb
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\obj\Debug\net6.0\FilesStreams.genruntimeconfig.cache
+C:\Users\Desen-03\Documents\Jullia\FilesStreams\obj\Debug\net6.0\ref\FilesStreams.dll
